@@ -1,6 +1,6 @@
 # CSS-Exercise
 
-## In this task, we translate three photos to HTML & HTML code:
+## In this task, we translate three photos to HTML & CSS code:
 
 1. *First Photo:*
 
