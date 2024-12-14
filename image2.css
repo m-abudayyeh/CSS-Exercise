@@ -1,0 +1,47 @@
+body{
+ background-color: rgb(255, 255, 241);
+ 
+.prg1 {
+    
+    display: inline-block;
+     background-color:#ececec;
+     width: 300PX;
+     height: 600pX;
+     margin: 20PX;
+       }
+.A{
+  display: inline;
+   ;
+ }      
+
+.B{
+    display: inline;  
+   }     
+
+
+   .prg2 {
+    
+    display: inline-block;
+     background-color:#ececec;
+     width: 300PX;
+     height: 300pX;
+     margin: 20PX;
+     position: absolute;
+       }
+.C{
+  display: inline;
+ }      
+.SCROLL{    
+  border-top-style: solid;
+  border-bottom-style: solid;
+  
+  
+      position: absolute;
+      top: 300px;
+      background-color: #fffff1;
+      width:1000px;
+      height: 70px;
+      overflow-x: hidden;
+      overflow-y: auto;
+  
+}
